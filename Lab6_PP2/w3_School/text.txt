@@ -1,0 +1,11 @@
+Hello! Welcome to text.txt
+This file is for testing purposes.
+Good Luck!
+
+
+Some random text in this file
+test sample of this file
+123 34923 machine number #23-3-32
+Add some files in other files
+
+some information to this text
